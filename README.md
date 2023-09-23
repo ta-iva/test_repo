@@ -1,2 +1,2 @@
-# PyWorking: Git praktcky
+# PyWorking: Git prakticky
 
